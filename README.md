@@ -9,3 +9,6 @@ Structure of project:
 - `utils`: code for computing performance metrics, defining prior densities, defining embedding networks, and posterior sampling
 
 Main script: `traing_and_sample.py`
+
+# Citation
+To follow...
