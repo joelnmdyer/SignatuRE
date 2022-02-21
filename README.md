@@ -1,5 +1,5 @@
 # SignatuRE
-Code for AISTATS 2022 paper `Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation`
+Code for AISTATS 2022 paper `Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation (SignatuRE)`
 
 Structure of project:
 - `analysis`: contains notebook for analysing results
