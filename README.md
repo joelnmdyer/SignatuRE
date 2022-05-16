@@ -12,7 +12,8 @@ Main script: `traing_and_sample.py`
 
 ## Citation
 Please use the following citation:
-```@InProceedings{pmlr-v151-dyer22a,
+```
+@InProceedings{pmlr-v151-dyer22a,
   title = 	 { Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation },
   author =       {Dyer, Joel and Cannon, Patrick W. and Schmon, Sebastian M.},
   booktitle = 	 {Proceedings of The 25th International Conference on Artificial Intelligence and Statistics},
@@ -26,4 +27,5 @@ Please use the following citation:
   pdf = 	 {https://proceedings.mlr.press/v151/dyer22a/dyer22a.pdf},
   url = 	 {https://proceedings.mlr.press/v151/dyer22a.html},
   abstract = 	 { Simulation models of complex dynamics in the natural and social sciences commonly lack a tractable likelihood function, rendering traditional likelihood-based statistical inference impossible. Recent advances in machine learning have introduced novel algorithms for estimating otherwise intractable likelihood functions using a likelihood ratio trick based on binary classifiers. Consequently, efficient likelihood approximations can be obtained whenever good probabilistic classifiers can be constructed. We propose a kernel classifier for sequential data using <em>path signatures</em> based on the recently introduced signature kernel. We demonstrate that the representative power of signatures yields a highly performant classifier, even in the crucially important case where sample numbers are low. In such scenarios, our approach can outperform sophisticated neural networks for common posterior inference tasks. }
-}```
+}
+```
