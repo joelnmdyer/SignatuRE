@@ -10,7 +10,7 @@ Structure of project:
 
 Main script: `traing_and_sample.py`
 
-I made use of the [sbi package](https://github.com/mackelab/sbi) without modification for the neural ratio estimation method.\
+I made use of the [sbi package](https://github.com/mackelab/sbi) without modification for the neural ratio estimation method.
 
 ## Paper
 The paper corresponding to this code can be found [on PMLR](https://proceedings.mlr.press/v151/dyer22a.html)\
