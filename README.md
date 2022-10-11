@@ -20,7 +20,7 @@ Short videos summarising the idea of this work can be found [on SlidesLive](http
 Please use the following citation:
 ```
 @InProceedings{pmlr-v151-dyer22a,
-  title = 	 { Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation },
+  title = 	 {{Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation}},
   author =       {Dyer, Joel and Cannon, Patrick W. and Schmon, Sebastian M.},
   booktitle = 	 {Proceedings of The 25th International Conference on Artificial Intelligence and Statistics},
   pages = 	 {11131--11144},
